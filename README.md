@@ -1,6 +1,7 @@
 #### 📘 DBMS  
 • UNIT 💎1 → https://nifty-rowboat-f86.notion.site/DC-UNIT-1-2b921ca0da50809ea506d2a561f8a819  
-• UNIT 💎3 → https://nifty-rowboat-f86.notion.site/DBMS-UNIT-3-2be21ca0da50803f88aafa4f3dbba457 
+• UNIT 💎2 → https://nifty-rowboat-f86.notion.site/DC-UNIT-2-2ba21ca0da5080df9ddccb52f78e53bd  
+• UNIT 💎3 → https://nifty-rowboat-f86.notion.site/DBMS-UNIT-3-2be21ca0da50803f88aafa4f3dbba457
 
 #### 🧠 Data Structure  
 • UNIT 💎1 → https://nifty-rowboat-f86.notion.site/DS-UNIT-1-2ab21ca0da5080ec81bbc222c679c188  
